@@ -1,2 +1,1 @@
-# You will enter your deployed Surge URL here
 poor-word.surge.sh
